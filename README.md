@@ -45,7 +45,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
    <tt>
    code tt
    </tt>
-   {% highlight %}
-   coding highlight
-   {% endhighlight %}
+
 1. New
